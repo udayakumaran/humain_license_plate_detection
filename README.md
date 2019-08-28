@@ -1,21 +1,38 @@
-# humain_license_plate_detection
-This code i submitted for humAIn contest for the problem vehicle Number  plate detection
+# humAIn_license_plate_detection
 
-Since i have interested in making the Artificial inteligence Object detection so i have Implemented the Vehicle number plate detection
+This Project code is  submitted for humAIn contest for the problem vehicle Number  plate detection.
 
-I have used Python Libraries for implementing this project
+Since i have interested in Learning Artificial inteligence ,machine learning and deep  learning.
 
-First set the Dataset path before running the python file.
+So i have choossed to implement the license_plate_detection and OCR.
 
-Now run the Python file.
 
-Number Detection and Extraction.py
 
-At first it will show all the number plates extracted contents.
+# Tools used
 
-Finaally you need to enter Any numbers between 0 - 237
+I have used some Python Libraries for implementing this project
+  1. OpencCV
+  2. Tessaract-ocr
+  3. tensorflow
+  4. matplotlib
+  5. json
+  6. request
 
-it will show the exact output.
-# HUMAIN 
+# Steps for run the file
+
+1. First set the Dataset path before running the python file.
+
+2. Now run the Python file.
+
+  # Number Detection and Extraction.py
+
+3. At first it will print all the number plates extracted contents.
+
+4. Finally you need to enter Any numbers between 0 - 237
+
+5. It will show the exact output.
+
+
+
 
  
