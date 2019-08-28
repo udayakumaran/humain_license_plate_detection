@@ -16,5 +16,6 @@ At first it will show all the number plates extracted contents.
 Finaally you need to enter Any numbers between 0 - 237
 
 it will show the exact output.
+# HUMAIN 
 
  
