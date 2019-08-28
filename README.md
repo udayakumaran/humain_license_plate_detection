@@ -25,6 +25,8 @@ I have used some Python Libraries for implementing this project
 2. Now run the Python file.
 
   # Number Detection and Extraction.py
+  
+# It will take some time to train the model.
 
 3. At first it will print all the number plates extracted contents.
 
